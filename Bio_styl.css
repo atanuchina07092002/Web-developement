@@ -1,0 +1,47 @@
+.a{
+    background-color:#eee;
+}
+.b,.e,.i{
+    text-align: center;
+    font-weight: bold;
+}
+.c{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border:2px solid black;
+    text-align: center;
+
+}
+.d{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius:50%;
+}
+.e{
+    background-color: darkgray;
+    border:1px solid darkgray ;
+}
+.f{
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 2px solid darkgrey;
+width: 90%;
+}
+.g{
+    font-size: 30px;
+    font-weight: bold;
+}
+.h{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+#ab{
+    font-size: 60px;
+}
